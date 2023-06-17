@@ -1,10 +1,11 @@
 ### TECH JOURNEY 
 --------------------------------------------
-"Hola! I'm Chris, a dedicated and enthusiastic software developer with a strong passion for web development. With experience in various technologies, I thrive on crafting innovative and user-friendly solutions. Currently, I'm pursuing my education at CodeStack Academy and will be graduating in September 2023.
+"Hola! 👋 I'm Chris, a dedicated and enthusiastic software developer with a strong passion for web development. With experience in various technologies, I thrive on crafting innovative and user-friendly solutions. Currently, I'm pursuing my education at CodeStack Academy and will be graduating in September 2023.
 
 ### CONNECT  
 --------------------------------------------
 📧 Reach me at uschrismartinez@gmail.com  
+
 📇 Lets Connect on [LinkedIn](https://www.linkedin.com/in/3chrismartinez/)
 
 
