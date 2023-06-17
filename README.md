@@ -10,21 +10,25 @@
 
 ### SKILLS 
 --------------------------------------------
-*
+* HTML/CSS
+* Vanilla JS
+* JavaScript
+* TypeScript
+* React
+* Angular
+* Bootstrap
+* Tailwind CSS
+* PostMan / Swagger
+* SQL
+* Microsoft Azure
+* DevOps
 
 
-HTML/CSS
-Vanilla JS
-JavaScript
-TypeScript
-React
-Angular
-Bootstrap
-Tailwind CSS
-PostMan / Swagger
-SQL
-Microsoft Azure
-DevOps
+
+
+
+
+
 <!--
 **chrismartinex/chrismartinex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
