@@ -5,10 +5,7 @@
 ### CONNECT  
 --------------------------------------------
 📧 Reach me at uschrismartinez@gmail.com  
-📇 Connect with me on [LinkedIn](https://www.linkedin.com/in/3chrismartinez/) to stay updated on my professional journey.
-
-
-
+📇 Stay informed about my professional pursuits by connecting with me on [LinkedIn](https://www.linkedin.com/in/3chrismartinez/)
 
 
 
