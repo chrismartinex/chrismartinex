@@ -27,7 +27,7 @@
 ### EMBRACING COLLABs
 --------------------------------------------
 
-Always looking to to collaborate and meet like minded peeps. Feel free to hit me up if you have a captivating project or idea. Let's join forces and bring forth something remarkable!
+Always looking to to collaborate and meet like minded peeps. Feel free to hit me up if you have a captivating project or idea. Let's join forces and bring forth something remarkable!! Becuase why not.....!!?
 
 🇺🇸 🇲🇽
 
