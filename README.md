@@ -1,6 +1,12 @@
 ### TECH JOURNEY 
 --------------------------------------------
-"Hola! 👋 I'm Chris, a dedicated and enthusiastic software developer with a strong passion for web development. With experience in various technologies, I thrive on crafting innovative and user-friendly solutions. Currently, I'm pursuing my education at CodeStack Academy and will be graduating in September 2023.
+Hello, I'm Chris, a software developer who enjoys creating innovative and user-friendly solutions. My most recent milestone was graduating from CodeStack Academy in September 2023. Before I could finish phase 5 of my curriculum (the internship), I landed a full-time position as a Software Engineer. In my current role, I work with Automation Programmable Logic Controllers, where we utilize Structured Text Code, C, and Python to program controllers.
+
+
+
+
+
+
 
 ### CONNECT  
 --------------------------------------------
